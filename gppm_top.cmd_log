@@ -1,0 +1,42 @@
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 
+xst -intstyle ise -ifn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.xst" -ofn "C:/Users/nimer/Documents/Verilog Projects/Animation/gppm_top.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc gppm_top.ucf -p xc3s500e-ft256-5 "gppm_top.ngc" gppm_top.ngd  
+map -intstyle ise -p xc3s500e-ft256-5 -cm area -ir off -pr off -c 100 -o gppm_top_map.ncd gppm_top.ngd gppm_top.pcf 
+par -w -intstyle ise -ol high -t 1 gppm_top_map.ncd gppm_top.ncd gppm_top.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml gppm_top.twx gppm_top.ncd -o gppm_top.twr gppm_top.pcf -ucf gppm_top.ucf 
+bitgen -intstyle ise -f gppm_top.ut gppm_top.ncd 

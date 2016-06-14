@@ -1,0 +1,5 @@
+verilog work "reg_file.v"
+verilog work "FSM.v"
+verilog work "counter.v"
+verilog work "ALU.v"
+verilog work "gppm_top.v"

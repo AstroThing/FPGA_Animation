@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\nimer\Documents\Verilog Projects\Animation\gppm_top.ncd
+OUTFILE=C:\Users\nimer\Documents\Verilog Projects\Animation\gppm_top.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5ft256
+WORKINGDIR=C:\Users\nimer\Documents\Verilog Projects\Animation
+LICENSE=WebPack
+USER_INFO=__0_0_0
